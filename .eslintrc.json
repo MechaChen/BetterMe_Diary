@@ -25,6 +25,7 @@
         "react/jsx-indent": [2, 4],
         "arrow-body-style": "off",
         "import/extensions": "off",
-        "import/no-unresolved": "off"
+        "import/no-unresolved": "off",
+        "react/prop-types": "off"
     }
 }
